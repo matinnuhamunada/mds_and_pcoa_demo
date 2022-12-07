@@ -1,5 +1,7 @@
 # MDS and PCoA in R from StatQuest
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matinnuhamunada/mds_and_pcoa_demo/master?filepath=mds_and_pcoa_demo.ipynb) :point_left: Launch a binder notebook 
+<a target="_blank" href="https://colab.research.google.com/github/matinnuhamunada/mds_and_pcoa_demo/blob/master/mds_and_pcoa_demo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 This is the code from the StatQuest...
 * MDS and PCoA in R: https://youtu.be/pGAUHhLYp5Q
