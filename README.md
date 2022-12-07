@@ -1,5 +1,5 @@
 # MDS and PCoA in R from StatQuest
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matinnuhamunada/mds_and_pcoa_demo/) :point_left: Launch a binder notebook 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matinnuhamunada/mds_and_pcoa_demo/master?filepath=mds_and_pcoa_demo.ipynb) :point_left: Launch a binder notebook 
 
 This is the code from the StatQuest...
 * MDS and PCoA in R: https://youtu.be/pGAUHhLYp5Q
